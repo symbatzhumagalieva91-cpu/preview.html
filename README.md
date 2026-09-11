@@ -1,2 +1,2 @@
 # preview.html
-сабақ жоспары
+index.html
